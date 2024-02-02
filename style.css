@@ -4,5 +4,5 @@ body{
 }
 
 .signUp{
-    outline: 1px solid black;
+    outline-style:2px solid #000;
 }
